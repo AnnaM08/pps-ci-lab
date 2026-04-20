@@ -1,5 +1,7 @@
 name: Lab7 Repo
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 on:
   push:
 jobs:
@@ -18,6 +20,7 @@ jobs:
         run: ./gradlew check
 =======
 
+>>>>>>> ad619165480412d475d4ba84fee236714bfe85f5
 on:
   push:
   # Si attiva su ogni push, come richiesto
@@ -53,4 +56,8 @@ jobs:
 
       - name: Build with Gradle
         run: ./gradlew build # 'build' include 'check' (test) e la compilazione
+<<<<<<< HEAD
+
+=======
 >>>>>>> c803408e99fa4e7b549d08c7490b8883cd45fafd
+>>>>>>> ad619165480412d475d4ba84fee236714bfe85f5

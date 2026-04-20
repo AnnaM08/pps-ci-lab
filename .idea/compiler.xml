@@ -5,6 +5,10 @@
     <bytecodeTargetLevel target="1.6" />
 =======
     <bytecodeTargetLevel target="17" />
+<<<<<<< HEAD
+>>>>>>> bcb82afe88013daed2a0c355d3dd9d8f3951e466
+=======
 >>>>>>> c803408e99fa4e7b549d08c7490b8883cd45fafd
+>>>>>>> ad619165480412d475d4ba84fee236714bfe85f5
   </component>
 </project>
